@@ -14,7 +14,7 @@ on:
       DEVICE_TREE_URL:
         description: 'DEVICE_TREE_URL'
         required: true
-        default: 'b0sxxx-user-12-SP1A.210812.016-S908BXXS8DXD2-release-keys'
+        default: 'https://github.com/twrpdtgen/android_device_samsung_b0s'
       DEVICE_TREE_BRANCH:
         description: 'DEVICE_TREE_BRANCH'
         required: true
